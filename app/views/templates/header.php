@@ -12,9 +12,7 @@
     <link rel="stylesheet" href="<?=BASE_URL?>/css/bootstrap.css">
     
     <link rel="stylesheet" href="<?=BASE_URL?>/vendors/perfect-scrollbar/perfect-scrollbar.css">
-    <link rel="stylesheet" href="<?=BASE_URL?>/vendors/bootstrap-icons/bootstrap-icons.css">
     <link rel="stylesheet" href="<?=BASE_URL?>/css/app.css">
-    <link rel="shortcut icon" href="<?=BASE_URL?>/images/favicon.svg" type="image/x-icon">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
 
