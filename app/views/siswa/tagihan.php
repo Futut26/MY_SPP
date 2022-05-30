@@ -114,7 +114,7 @@
 					<br>
 					<section id="basic-horizontal-layouts">
                     <?php Flasher::flash(); ?>
-                        <div class="row row-cols-5 row-cols-md-4 g-5">
+                        <div class="row row-cols-1 row-cols-md-4 g-4">
                         <?php $no = 1; foreach ($data['tagihan'] as $data) : ?>
                             `  <div class="col">
                                     <div class="card text-bg-info mb-3" style="max-width: 18rem;">
